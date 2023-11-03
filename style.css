@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 body{
-  background: #001e4d;
+  background: deepskyblue;
 }
 .app{
   background: #fff;
@@ -17,7 +17,9 @@ body{
 }
 .app h1{
   font-size: 25px;
-  color: #001e4d;
+  text-align: center;
+color: blueviolet;
+  /* color: #001e4d; */
   font-weight: 600;
   border-bottom: 1px solid #333;
   padding-bottom: 30px;

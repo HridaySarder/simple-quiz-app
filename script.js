@@ -1,72 +1,90 @@
 const question = [
   {
-    question:"What is UGB means?",
+    question:"Which is the first Hi-Tech University in Bangladesh?",
     answer:[
       {
-        text:"University of Global Village",correct:true
+        text:"UGV",correct:true
       },
       {
-        text:"University of  Village",correct:false
+        text:"IUBAT",correct:false
       },
       {
-        text:"University of Global ",correct:false
+        text:"BUBT",correct:false
       },
       {
-        text:"University",correct:false
+        text:"AIUB",correct:false
       }
     ]
 
   },
   {
-    question:"What is UGB means?",
+    question:"Who is the chairman of UGV?",
     answer:[
       {
-        text:"University of Global Village",correct:true
+        text:"Dr. Kaykobad",correct:false
       },
       {
-        text:"University of  Village",correct:false
+        text:"Md. Imran Chowdhury",correct:true
       },
       {
-        text:"University of Global ",correct:false
+        text:"Newton MA Hakim ",correct:false
       },
       {
-        text:"University",correct:false
+        text:"Md Farid Ahmad",correct:false
       }
     ]
 
   },
   {
-    question:"What is UGB means?",
+    question:"In which year UGV was established?",
     answer:[
       {
-        text:"University of Global Village",correct:true
+        text:"2015",correct:false
       },
       {
-        text:"University of  Village",correct:false
+        text:"2016",correct:true
       },
       {
-        text:"University of Global ",correct:false
+        text:"2017",correct:false
       },
       {
-        text:"University",correct:false
+        text:"2018",correct:false
       }
     ]
 
   },
   {
-    question:"What is UGB means?",
+    question:"Who is the Vice-Chancellor of UGV",
     answer:[
       {
-        text:"University of Global Village",correct:true
+        text:"Abdul Baqee",correct:true
       },
       {
-        text:"University of  Village",correct:false
+        text:"Engr. A.H.M. Delwar Haidar",correct:false
       },
       {
-        text:"University of Global ",correct:false
+        text:"Professor Badiuzzaman",correct:false
       },
       {
-        text:"University",correct:false
+        text:"Professor Dr. Md. Kaykobad",correct:false
+      }
+    ]
+
+  },
+  {
+    question:"What is the Motto of UGV",
+    answer:[
+      {
+        text:"Knowledge is Power",correct:false
+      },
+      {
+        text:"Know Thyself",correct:false
+      },
+      {
+        text:"Honesty is the best policy",correct:false
+      },
+      {
+        text:"Knowledge is Light",correct:true
       }
     ]
 
