@@ -54,7 +54,7 @@ const question = [
 
   },
   {
-    question:"Who is the Vice-Chancellor of UGV",
+    question:"Who is the Vice-Chancellor of UGV?",
     answer:[
       {
         text:"Abdul Baqee",correct:true
@@ -72,7 +72,26 @@ const question = [
 
   },
   {
-    question:"What is the Motto of UGV",
+    question:"Who is the HOD of CSE in UGV?",
+    answer:[
+      {
+        text:"Partho Sarathi Sarker",correct:false
+      },
+      {
+        text:"Abdur Razzak",correct:true
+      },
+      {
+        text:"Md Masudur Rahman",correct:false
+      },
+      {
+        text:"Md Riadul Islam",correct:false
+      }
+    ]
+
+  },
+ 
+  {
+    question:"What is the Motto of UGV?",
     answer:[
       {
         text:"Knowledge is Power",correct:false
@@ -85,6 +104,24 @@ const question = [
       },
       {
         text:"Knowledge is Light",correct:true
+      }
+    ]
+
+  },
+  {
+    question:"How many department in UGV?",
+    answer:[
+      {
+        text:"5",correct:false
+      },
+      {
+        text:"6",correct:false
+      },
+      {
+        text:"7",correct:true
+      },
+      {
+        text:"8",correct:false
       }
     ]
 
